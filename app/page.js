@@ -27,8 +27,7 @@ export default function Home() {
 
   return (
     <main>
-     
-     <section className="h-[88vh] bg-[url('/images/banner.jpg')] mt-[10vh] bg-cover bg-center relative">
+    <section className="h-[88vh] bg-[url('/images/banner.jpg')] mt-[10vh] bg-cover bg-center relative">
       <div className="container mx-auto flex flex-col lg:flex-row items-center justify-center h-full text-white">
       <Particle />
         {/* Text Section */}
