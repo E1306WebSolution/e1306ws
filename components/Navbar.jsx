@@ -84,6 +84,9 @@ const Navbar = () => {
                   <Link href="/about" className="">
                     About
                   </Link>
+                  <Link href="/blog" className="">
+                    Blogs
+                  </Link>
                   <Link href="/seo" className="">
                     SEO
                   </Link>
